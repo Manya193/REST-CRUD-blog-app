@@ -15,5 +15,5 @@ A simple RESTful CRUD application built using Node.js, Express, and EJS.
 - EJS
 
 ## Run Locally
-npm install
+npm install<br>
 node index.js
