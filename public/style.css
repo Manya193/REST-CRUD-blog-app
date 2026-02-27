@@ -69,6 +69,7 @@ button:hover {
     background-color:blueviolet;
     display: block;
     margin: auto;
+    padding: 10px 30px;
 }
 button a{
     color: white;
